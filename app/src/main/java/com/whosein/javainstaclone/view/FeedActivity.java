@@ -37,6 +37,7 @@ public class FeedActivity extends AppCompatActivity {
     private ActivityFeedBinding binding;
     PostAdapter postAdapter;
     //change
+    //change2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
